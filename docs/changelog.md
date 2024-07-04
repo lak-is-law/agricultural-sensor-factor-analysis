@@ -8,3 +8,4 @@
 - 2024-07-03 19:14: feat(export): dump latent factor scores to CSV output
 - 2024-07-04 10:02: feat(viz): biplot visualization of latent factor loadings
 - 2024-07-04 13:32: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-07-04 17:44: feat(factor): varimax rotation on soil fertility latent factors
