@@ -12,3 +12,4 @@
 - 2024-07-05 11:25: feat(export): dump latent factor scores to CSV output
 - 2024-07-05 14:05: perf(data): normalize multi-spectral sensor variance
 - 2024-07-05 16:11: refactor(pipeline): sensor correlation matrix computation
+- 2024-07-05 19:32: perf(data): normalize multi-spectral sensor variance
