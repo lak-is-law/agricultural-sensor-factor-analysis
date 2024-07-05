@@ -10,3 +10,4 @@
 - 2024-07-04 13:32: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-07-04 17:44: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-07-05 11:25: feat(export): dump latent factor scores to CSV output
+- 2024-07-05 14:05: perf(data): normalize multi-spectral sensor variance
