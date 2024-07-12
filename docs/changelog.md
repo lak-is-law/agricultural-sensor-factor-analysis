@@ -16,3 +16,4 @@
 - 2024-07-05 21:03: docs(analysis): document scree plot factor cutoff criteria
 - 2024-07-05 22:00: refactor(pipeline): sensor correlation matrix computation
 - 2024-07-12 11:55: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-07-12 12:30: feat(export): dump latent factor scores to CSV output
