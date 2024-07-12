@@ -15,3 +15,4 @@
 - 2024-07-05 19:32: perf(data): normalize multi-spectral sensor variance
 - 2024-07-05 21:03: docs(analysis): document scree plot factor cutoff criteria
 - 2024-07-05 22:00: refactor(pipeline): sensor correlation matrix computation
+- 2024-07-12 11:55: perf(numpy): vectorize sensor feature normalization pipeline
