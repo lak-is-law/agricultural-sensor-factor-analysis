@@ -19,3 +19,4 @@
 - 2024-07-12 12:30: feat(export): dump latent factor scores to CSV output
 - 2024-07-12 19:50: test(covariance): eigenvalue decomposition stability test
 - 2024-07-12 21:37: test(covariance): eigenvalue decomposition stability test
+- 2024-07-15 11:52: feat(factor): varimax rotation on soil fertility latent factors
