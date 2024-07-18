@@ -26,3 +26,4 @@
 - 2024-07-18 18:45: docs(analysis): document scree plot factor cutoff criteria
 - 2024-07-18 19:09: test(covariance): eigenvalue decomposition stability test
 - 2024-07-18 21:01: docs(analysis): document scree plot factor cutoff criteria
+- 2024-07-18 22:08: test(covariance): eigenvalue decomposition stability test
