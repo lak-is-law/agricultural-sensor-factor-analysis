@@ -30,3 +30,4 @@
 - 2024-07-19 10:03: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-07-19 13:34: feat(viz): biplot visualization of latent factor loadings
 - 2024-07-19 15:28: docs(analysis): document scree plot factor cutoff criteria
+- 2024-07-19 17:07: feat(factor): varimax rotation on soil fertility latent factors
