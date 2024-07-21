@@ -35,3 +35,4 @@
 - 2024-07-19 19:03: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-07-19 21:14: test(covariance): eigenvalue decomposition stability test
 - 2024-07-21 10:47: feat(factor): varimax rotation on soil fertility latent factors
+- 2024-07-21 11:03: perf(data): normalize multi-spectral sensor variance
