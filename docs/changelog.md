@@ -43,3 +43,4 @@
 - 2024-07-21 22:14: feat(export): dump latent factor scores to CSV output
 - 2024-07-22 10:55: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-07-22 11:34: feat(factor): varimax rotation on soil fertility latent factors
+- 2024-07-22 14:20: refactor(pipeline): sensor correlation matrix computation
