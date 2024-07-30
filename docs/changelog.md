@@ -57,3 +57,4 @@
 - 2024-07-30 14:42: feat(export): dump latent factor scores to CSV output
 - 2024-07-30 15:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-07-30 16:23: perf(data): normalize multi-spectral sensor variance
+- 2024-07-30 17:36: perf(data): normalize multi-spectral sensor variance
