@@ -52,3 +52,4 @@
 - 2024-07-23 12:05: feat(viz): biplot visualization of latent factor loadings
 - 2024-07-23 15:57: docs(analysis): document scree plot factor cutoff criteria
 - 2024-07-30 11:02: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-07-30 12:05: refactor(pipeline): sensor correlation matrix computation
