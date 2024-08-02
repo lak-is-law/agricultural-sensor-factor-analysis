@@ -55,3 +55,4 @@
 - 2024-07-30 21:59: test(covariance): eigenvalue decomposition stability test
 - 2024-08-02 13:52: test(covariance): eigenvalue decomposition stability test
 - 2024-08-02 15:52: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-08-02 16:43: perf(data): normalize multi-spectral sensor variance
