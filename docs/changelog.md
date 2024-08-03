@@ -57,3 +57,4 @@
 - 2024-08-02 15:52: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-08-02 16:43: perf(data): normalize multi-spectral sensor variance
 - 2024-08-02 18:30: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-08-03 18:37: feat(export): dump latent factor scores to CSV output
