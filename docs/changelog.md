@@ -54,3 +54,4 @@
 - 2024-08-04 16:02: refactor(pipeline): sensor correlation matrix computation
 - 2024-08-06 10:37: feat(viz): biplot visualization of latent factor loadings
 - 2024-08-06 12:56: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-08-06 16:36: refactor(pipeline): sensor correlation matrix computation
