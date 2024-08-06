@@ -52,3 +52,4 @@
 - 2024-08-04 11:34: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-08-04 14:35: test(covariance): eigenvalue decomposition stability test
 - 2024-08-04 16:02: refactor(pipeline): sensor correlation matrix computation
+- 2024-08-06 10:37: feat(viz): biplot visualization of latent factor loadings
