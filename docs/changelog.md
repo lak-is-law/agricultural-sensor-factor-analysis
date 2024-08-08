@@ -52,3 +52,4 @@
 - 2024-08-08 17:01: feat(viz): biplot visualization of latent factor loadings
 - 2024-08-08 18:51: test(covariance): eigenvalue decomposition stability test
 - 2024-08-08 19:54: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-08-08 21:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
