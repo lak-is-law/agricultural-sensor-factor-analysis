@@ -50,3 +50,4 @@
 - 2024-08-06 20:05: perf(data): normalize multi-spectral sensor variance
 - 2024-08-08 10:26: perf(data): normalize multi-spectral sensor variance
 - 2024-08-08 17:01: feat(viz): biplot visualization of latent factor loadings
+- 2024-08-08 18:51: test(covariance): eigenvalue decomposition stability test
