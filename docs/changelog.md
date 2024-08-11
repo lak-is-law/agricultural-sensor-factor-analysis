@@ -55,3 +55,4 @@
 - 2024-08-08 21:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-08-11 12:37: test(covariance): eigenvalue decomposition stability test
 - 2024-08-11 16:29: feat(factor): varimax rotation on soil fertility latent factors
+- 2024-08-11 18:14: refactor(pipeline): sensor correlation matrix computation
