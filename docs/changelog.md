@@ -57,3 +57,4 @@
 - 2024-08-11 16:29: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-08-11 18:14: refactor(pipeline): sensor correlation matrix computation
 - 2024-08-11 19:49: test(covariance): eigenvalue decomposition stability test
+- 2024-08-11 20:56: docs(analysis): document scree plot factor cutoff criteria
