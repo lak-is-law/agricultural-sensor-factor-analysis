@@ -53,3 +53,4 @@
 - 2024-08-13 19:23: test(covariance): eigenvalue decomposition stability test
 - 2024-08-13 21:03: docs(analysis): document scree plot factor cutoff criteria
 - 2024-08-15 10:23: docs(analysis): document scree plot factor cutoff criteria
+- 2024-08-15 11:26: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
