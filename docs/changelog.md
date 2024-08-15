@@ -52,3 +52,4 @@
 - 2024-08-11 21:47: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-08-13 19:23: test(covariance): eigenvalue decomposition stability test
 - 2024-08-13 21:03: docs(analysis): document scree plot factor cutoff criteria
+- 2024-08-15 10:23: docs(analysis): document scree plot factor cutoff criteria
