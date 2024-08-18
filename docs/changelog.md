@@ -54,3 +54,4 @@
 - 2024-08-18 16:04: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-08-18 18:22: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-08-18 19:22: refactor(pipeline): sensor correlation matrix computation
+- 2024-08-18 21:39: test(covariance): eigenvalue decomposition stability test
