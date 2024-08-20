@@ -51,3 +51,4 @@
 - 2024-08-20 13:36: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-08-20 14:26: feat(export): dump latent factor scores to CSV output
 - 2024-08-20 17:57: test(covariance): eigenvalue decomposition stability test
+- 2024-08-20 18:17: docs(analysis): document scree plot factor cutoff criteria
