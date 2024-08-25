@@ -54,3 +54,4 @@
 - 2024-08-25 12:24: feat(viz): biplot visualization of latent factor loadings
 - 2024-08-25 13:07: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-08-25 14:09: docs(analysis): document scree plot factor cutoff criteria
+- 2024-08-25 15:44: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
