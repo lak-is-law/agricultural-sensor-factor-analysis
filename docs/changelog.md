@@ -50,3 +50,4 @@
 - 2024-08-25 17:55: perf(data): normalize multi-spectral sensor variance
 - 2024-08-25 18:11: docs(analysis): document scree plot factor cutoff criteria
 - 2024-08-25 19:35: test(covariance): eigenvalue decomposition stability test
+- 2024-08-25 20:42: feat(viz): biplot visualization of latent factor loadings
