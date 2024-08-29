@@ -54,3 +54,4 @@
 - 2024-08-25 21:01: test(covariance): eigenvalue decomposition stability test
 - 2024-08-25 22:43: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-08-29 11:20: feat(export): dump latent factor scores to CSV output
+- 2024-08-29 15:26: perf(data): normalize multi-spectral sensor variance
