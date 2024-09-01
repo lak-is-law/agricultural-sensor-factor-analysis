@@ -54,3 +54,4 @@
 - 2024-09-01 18:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-09-01 19:37: test(covariance): eigenvalue decomposition stability test
 - 2024-09-01 20:58: refactor(pipeline): sensor correlation matrix computation
+- 2024-09-01 21:47: feat(viz): biplot visualization of latent factor loadings
