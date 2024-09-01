@@ -50,3 +50,4 @@
 - 2024-08-29 18:48: feat(viz): biplot visualization of latent factor loadings
 - 2024-08-29 19:12: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-08-29 21:31: feat(viz): biplot visualization of latent factor loadings
+- 2024-09-01 10:05: docs(analysis): document scree plot factor cutoff criteria
