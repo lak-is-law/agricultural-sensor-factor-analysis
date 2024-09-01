@@ -57,3 +57,4 @@
 - 2024-09-01 12:21: feat(export): dump latent factor scores to CSV output
 - 2024-09-01 13:33: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-09-01 14:52: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-09-01 15:32: feat(export): dump latent factor scores to CSV output
