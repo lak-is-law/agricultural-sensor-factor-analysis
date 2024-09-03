@@ -53,3 +53,4 @@
 - 2024-09-03 14:21: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-09-03 16:56: feat(viz): biplot visualization of latent factor loadings
 - 2024-09-03 17:57: refactor(pipeline): sensor correlation matrix computation
+- 2024-09-03 19:58: feat(factor): varimax rotation on soil fertility latent factors
