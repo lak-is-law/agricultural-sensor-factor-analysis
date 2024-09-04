@@ -55,3 +55,4 @@
 - 2024-09-03 17:57: refactor(pipeline): sensor correlation matrix computation
 - 2024-09-03 19:58: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-09-03 22:40: feat(export): dump latent factor scores to CSV output
+- 2024-09-04 11:50: feat(export): dump latent factor scores to CSV output
