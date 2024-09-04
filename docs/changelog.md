@@ -50,3 +50,4 @@
 - 2024-09-04 14:34: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-09-04 17:10: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-09-04 20:04: feat(export): dump latent factor scores to CSV output
+- 2024-09-04 22:44: perf(data): normalize multi-spectral sensor variance
