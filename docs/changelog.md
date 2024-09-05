@@ -57,3 +57,4 @@
 - 2024-09-05 11:54: feat(viz): biplot visualization of latent factor loadings
 - 2024-09-05 12:03: feat(export): dump latent factor scores to CSV output
 - 2024-09-05 12:34: refactor(pipeline): sensor correlation matrix computation
+- 2024-09-05 13:09: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
