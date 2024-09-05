@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-08-24 14:58: refactor(pipeline): sensor correlation matrix computation
-- 2024-08-24 18:41: docs(analysis): document scree plot factor cutoff criteria
-- 2024-08-24 21:02: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2024-08-25 10:32: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-08-25 10:48: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-08-25 11:59: feat(export): dump latent factor scores to CSV output
-- 2024-08-25 12:24: feat(viz): biplot visualization of latent factor loadings
-- 2024-08-25 13:07: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-08-25 14:09: docs(analysis): document scree plot factor cutoff criteria
 - 2024-08-25 15:44: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-08-25 16:18: test(covariance): eigenvalue decomposition stability test
 - 2024-08-25 17:55: perf(data): normalize multi-spectral sensor variance
@@ -58,3 +49,4 @@
 - 2024-09-05 12:03: feat(export): dump latent factor scores to CSV output
 - 2024-09-05 12:34: refactor(pipeline): sensor correlation matrix computation
 - 2024-09-05 13:09: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-09-05 14:22: docs(analysis): document scree plot factor cutoff criteria
