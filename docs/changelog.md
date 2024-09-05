@@ -54,3 +54,4 @@
 - 2024-09-05 16:22: feat(viz): biplot visualization of latent factor loadings
 - 2024-09-05 17:14: perf(data): normalize multi-spectral sensor variance
 - 2024-09-05 18:54: perf(data): normalize multi-spectral sensor variance
+- 2024-09-05 19:28: docs(analysis): document scree plot factor cutoff criteria
