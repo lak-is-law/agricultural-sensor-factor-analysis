@@ -55,3 +55,4 @@
 - 2024-09-05 17:14: perf(data): normalize multi-spectral sensor variance
 - 2024-09-05 18:54: perf(data): normalize multi-spectral sensor variance
 - 2024-09-05 19:28: docs(analysis): document scree plot factor cutoff criteria
+- 2024-09-05 20:52: feat(export): dump latent factor scores to CSV output
