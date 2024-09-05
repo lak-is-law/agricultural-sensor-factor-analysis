@@ -53,3 +53,4 @@
 - 2024-09-04 22:44: perf(data): normalize multi-spectral sensor variance
 - 2024-09-05 10:22: perf(data): normalize multi-spectral sensor variance
 - 2024-09-05 10:44: refactor(pipeline): sensor correlation matrix computation
+- 2024-09-05 11:11: feat(factor): varimax rotation on soil fertility latent factors
