@@ -52,3 +52,4 @@
 - 2024-09-05 14:22: docs(analysis): document scree plot factor cutoff criteria
 - 2024-09-05 15:27: feat(export): dump latent factor scores to CSV output
 - 2024-09-05 16:22: feat(viz): biplot visualization of latent factor loadings
+- 2024-09-05 17:14: perf(data): normalize multi-spectral sensor variance
