@@ -50,3 +50,4 @@
 - 2024-09-05 21:55: feat(export): dump latent factor scores to CSV output
 - 2024-09-05 22:28: test(covariance): eigenvalue decomposition stability test
 - 2024-09-18 13:01: perf(data): normalize multi-spectral sensor variance
+- 2024-09-18 17:36: feat(viz): biplot visualization of latent factor loadings
