@@ -52,3 +52,4 @@
 - 2024-09-18 13:01: perf(data): normalize multi-spectral sensor variance
 - 2024-09-18 17:36: feat(viz): biplot visualization of latent factor loadings
 - 2024-09-18 21:24: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-09-24 10:30: feat(factor): varimax rotation on soil fertility latent factors
