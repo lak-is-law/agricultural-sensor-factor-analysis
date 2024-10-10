@@ -50,3 +50,4 @@
 - 2024-10-10 15:43: feat(export): dump latent factor scores to CSV output
 - 2024-10-10 16:22: feat(export): dump latent factor scores to CSV output
 - 2024-10-10 17:46: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-10-10 21:20: perf(numpy): vectorize sensor feature normalization pipeline
