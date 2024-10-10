@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-09-01 12:21: feat(export): dump latent factor scores to CSV output
-- 2024-09-01 13:33: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-09-01 14:52: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-09-01 15:32: feat(export): dump latent factor scores to CSV output
-- 2024-09-01 16:44: feat(export): dump latent factor scores to CSV output
-- 2024-09-01 17:30: feat(factor): varimax rotation on soil fertility latent factors
-- 2024-09-01 18:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2024-09-01 19:37: test(covariance): eigenvalue decomposition stability test
-- 2024-09-01 20:58: refactor(pipeline): sensor correlation matrix computation
 - 2024-09-01 21:47: feat(viz): biplot visualization of latent factor loadings
 - 2024-09-01 22:12: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-09-03 10:10: refactor(pipeline): sensor correlation matrix computation
@@ -58,3 +49,4 @@
 - 2024-10-10 13:56: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-10-10 15:43: feat(export): dump latent factor scores to CSV output
 - 2024-10-10 16:22: feat(export): dump latent factor scores to CSV output
+- 2024-10-10 17:46: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
