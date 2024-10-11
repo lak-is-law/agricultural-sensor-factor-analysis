@@ -52,3 +52,4 @@
 - 2024-10-11 16:27: feat(viz): biplot visualization of latent factor loadings
 - 2024-10-11 17:36: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-10-11 18:36: docs(analysis): document scree plot factor cutoff criteria
+- 2024-10-11 19:59: refactor(pipeline): sensor correlation matrix computation
