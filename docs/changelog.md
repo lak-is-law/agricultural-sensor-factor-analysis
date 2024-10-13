@@ -51,3 +51,4 @@
 - 2024-10-12 15:28: feat(viz): biplot visualization of latent factor loadings
 - 2024-10-12 19:19: feat(viz): biplot visualization of latent factor loadings
 - 2024-10-12 20:01: feat(viz): biplot visualization of latent factor loadings
+- 2024-10-13 12:22: docs(analysis): document scree plot factor cutoff criteria
