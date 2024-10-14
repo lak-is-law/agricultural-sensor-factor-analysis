@@ -55,3 +55,4 @@
 - 2024-10-13 15:13: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-10-13 16:56: docs(analysis): document scree plot factor cutoff criteria
 - 2024-10-13 19:19: test(covariance): eigenvalue decomposition stability test
+- 2024-10-14 12:06: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
