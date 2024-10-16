@@ -57,3 +57,4 @@
 - 2024-10-13 19:19: test(covariance): eigenvalue decomposition stability test
 - 2024-10-14 12:06: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-10-14 15:02: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-10-16 11:25: test(covariance): eigenvalue decomposition stability test
