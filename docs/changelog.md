@@ -52,3 +52,4 @@
 - 2024-10-16 17:24: test(covariance): eigenvalue decomposition stability test
 - 2024-10-16 19:18: test(covariance): eigenvalue decomposition stability test
 - 2024-10-16 20:07: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-10-16 22:50: perf(data): normalize multi-spectral sensor variance
