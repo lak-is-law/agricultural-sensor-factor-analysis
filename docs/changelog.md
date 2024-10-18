@@ -54,3 +54,4 @@
 - 2024-10-16 20:07: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-10-16 22:50: perf(data): normalize multi-spectral sensor variance
 - 2024-10-17 17:35: feat(viz): biplot visualization of latent factor loadings
+- 2024-10-18 17:19: docs(analysis): document scree plot factor cutoff criteria
