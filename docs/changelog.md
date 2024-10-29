@@ -56,3 +56,4 @@
 - 2024-10-29 18:48: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-10-29 19:11: perf(data): normalize multi-spectral sensor variance
 - 2024-10-29 20:16: feat(factor): varimax rotation on soil fertility latent factors
+- 2024-10-29 22:03: feat(export): dump latent factor scores to CSV output
