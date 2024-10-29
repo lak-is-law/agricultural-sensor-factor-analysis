@@ -52,3 +52,4 @@
 - 2024-10-29 12:09: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-10-29 15:25: feat(viz): biplot visualization of latent factor loadings
 - 2024-10-29 16:12: feat(export): dump latent factor scores to CSV output
+- 2024-10-29 17:24: feat(factor): varimax rotation on soil fertility latent factors
