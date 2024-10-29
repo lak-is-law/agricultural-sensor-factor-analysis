@@ -56,3 +56,4 @@
 - 2024-10-17 17:35: feat(viz): biplot visualization of latent factor loadings
 - 2024-10-18 17:19: docs(analysis): document scree plot factor cutoff criteria
 - 2024-10-18 21:36: test(covariance): eigenvalue decomposition stability test
+- 2024-10-29 10:18: feat(viz): biplot visualization of latent factor loadings
