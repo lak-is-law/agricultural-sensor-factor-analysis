@@ -54,3 +54,4 @@
 - 2024-11-09 19:20: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-11-09 20:09: perf(data): normalize multi-spectral sensor variance
 - 2024-11-09 22:50: refactor(pipeline): sensor correlation matrix computation
+- 2024-11-14 10:32: test(covariance): eigenvalue decomposition stability test
