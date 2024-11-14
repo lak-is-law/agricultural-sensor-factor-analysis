@@ -57,3 +57,4 @@
 - 2024-11-14 10:32: test(covariance): eigenvalue decomposition stability test
 - 2024-11-14 11:35: feat(export): dump latent factor scores to CSV output
 - 2024-11-14 12:16: feat(factor): varimax rotation on soil fertility latent factors
+- 2024-11-14 14:45: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
