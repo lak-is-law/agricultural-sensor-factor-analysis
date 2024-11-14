@@ -55,3 +55,4 @@
 - 2024-11-09 20:09: perf(data): normalize multi-spectral sensor variance
 - 2024-11-09 22:50: refactor(pipeline): sensor correlation matrix computation
 - 2024-11-14 10:32: test(covariance): eigenvalue decomposition stability test
+- 2024-11-14 11:35: feat(export): dump latent factor scores to CSV output
