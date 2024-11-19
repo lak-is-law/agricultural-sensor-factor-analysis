@@ -50,3 +50,4 @@
 - 2024-11-18 13:17: perf(data): normalize multi-spectral sensor variance
 - 2024-11-19 13:47: docs(analysis): document scree plot factor cutoff criteria
 - 2024-11-19 18:14: docs(analysis): document scree plot factor cutoff criteria
+- 2024-11-19 19:59: feat(factor): varimax rotation on soil fertility latent factors
