@@ -50,3 +50,4 @@
 - 2024-11-25 17:36: feat(export): dump latent factor scores to CSV output
 - 2024-11-25 18:40: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-11-25 19:36: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-11-25 20:18: test(covariance): eigenvalue decomposition stability test
