@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-10-13 19:19: test(covariance): eigenvalue decomposition stability test
-- 2024-10-14 12:06: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2024-10-14 15:02: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2024-10-16 11:25: test(covariance): eigenvalue decomposition stability test
-- 2024-10-16 17:24: test(covariance): eigenvalue decomposition stability test
-- 2024-10-16 19:18: test(covariance): eigenvalue decomposition stability test
-- 2024-10-16 20:07: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-10-16 22:50: perf(data): normalize multi-spectral sensor variance
-- 2024-10-17 17:35: feat(viz): biplot visualization of latent factor loadings
 - 2024-10-18 17:19: docs(analysis): document scree plot factor cutoff criteria
 - 2024-10-18 21:36: test(covariance): eigenvalue decomposition stability test
 - 2024-10-29 10:18: feat(viz): biplot visualization of latent factor loadings
@@ -58,3 +49,4 @@
 - 2024-11-25 16:42: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-11-25 17:36: feat(export): dump latent factor scores to CSV output
 - 2024-11-25 18:40: perf(numpy): vectorize sensor feature normalization pipeline
+- 2024-11-25 19:36: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
