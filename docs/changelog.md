@@ -53,3 +53,4 @@
 - 2024-11-25 20:18: test(covariance): eigenvalue decomposition stability test
 - 2024-11-25 22:07: perf(data): normalize multi-spectral sensor variance
 - 2024-11-28 12:41: feat(viz): biplot visualization of latent factor loadings
+- 2024-11-28 18:46: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
