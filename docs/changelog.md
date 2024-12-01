@@ -57,3 +57,4 @@
 - 2024-11-28 22:40: perf(data): normalize multi-spectral sensor variance
 - 2024-12-01 11:24: feat(export): dump latent factor scores to CSV output
 - 2024-12-01 16:00: test(covariance): eigenvalue decomposition stability test
+- 2024-12-01 17:26: feat(factor): varimax rotation on soil fertility latent factors
