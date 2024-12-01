@@ -56,3 +56,4 @@
 - 2024-11-28 18:46: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-11-28 22:40: perf(data): normalize multi-spectral sensor variance
 - 2024-12-01 11:24: feat(export): dump latent factor scores to CSV output
+- 2024-12-01 16:00: test(covariance): eigenvalue decomposition stability test
