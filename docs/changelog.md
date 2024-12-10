@@ -51,3 +51,4 @@
 - 2024-12-01 17:26: feat(factor): varimax rotation on soil fertility latent factors
 - 2024-12-01 20:47: perf(data): normalize multi-spectral sensor variance
 - 2024-12-01 22:14: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-12-10 11:33: feat(export): dump latent factor scores to CSV output
