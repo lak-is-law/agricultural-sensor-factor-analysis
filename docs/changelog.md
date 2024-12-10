@@ -53,3 +53,4 @@
 - 2024-12-01 22:14: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-12-10 11:33: feat(export): dump latent factor scores to CSV output
 - 2024-12-10 14:41: test(covariance): eigenvalue decomposition stability test
+- 2024-12-10 17:49: feat(export): dump latent factor scores to CSV output
