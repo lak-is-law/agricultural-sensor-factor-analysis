@@ -54,3 +54,4 @@
 - 2024-12-10 11:33: feat(export): dump latent factor scores to CSV output
 - 2024-12-10 14:41: test(covariance): eigenvalue decomposition stability test
 - 2024-12-10 17:49: feat(export): dump latent factor scores to CSV output
+- 2024-12-10 18:59: feat(export): dump latent factor scores to CSV output
