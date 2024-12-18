@@ -52,3 +52,4 @@
 - 2024-12-12 15:14: refactor(pipeline): sensor correlation matrix computation
 - 2024-12-12 16:44: feat(export): dump latent factor scores to CSV output
 - 2024-12-12 21:45: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2024-12-18 14:07: refactor(pipeline): sensor correlation matrix computation
