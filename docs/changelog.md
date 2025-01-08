@@ -54,3 +54,4 @@
 - 2024-12-12 21:45: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2024-12-18 14:07: refactor(pipeline): sensor correlation matrix computation
 - 2024-12-18 16:41: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2025-01-08 14:32: docs(analysis): document scree plot factor cutoff criteria
