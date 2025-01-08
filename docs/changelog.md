@@ -56,3 +56,4 @@
 - 2024-12-18 16:41: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-01-08 14:32: docs(analysis): document scree plot factor cutoff criteria
 - 2025-01-08 15:03: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2025-01-08 17:30: feat(viz): biplot visualization of latent factor loadings
