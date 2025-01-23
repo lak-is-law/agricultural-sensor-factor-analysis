@@ -52,3 +52,4 @@
 - 2025-01-23 10:07: docs(analysis): document scree plot factor cutoff criteria
 - 2025-01-23 11:41: test(covariance): eigenvalue decomposition stability test
 - 2025-01-23 12:37: refactor(pipeline): sensor correlation matrix computation
+- 2025-01-23 13:10: feat(factor): varimax rotation on soil fertility latent factors
