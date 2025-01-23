@@ -50,3 +50,4 @@
 - 2025-01-18 20:39: feat(export): dump latent factor scores to CSV output
 - 2025-01-18 22:46: perf(data): normalize multi-spectral sensor variance
 - 2025-01-23 10:07: docs(analysis): document scree plot factor cutoff criteria
+- 2025-01-23 11:41: test(covariance): eigenvalue decomposition stability test
