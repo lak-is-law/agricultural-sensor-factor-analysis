@@ -54,3 +54,4 @@
 - 2025-01-23 12:37: refactor(pipeline): sensor correlation matrix computation
 - 2025-01-23 13:10: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-01-23 15:49: docs(analysis): document scree plot factor cutoff criteria
+- 2025-01-23 22:20: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
