@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2024-11-14 21:35: docs(analysis): document scree plot factor cutoff criteria
-- 2024-11-14 22:22: feat(viz): biplot visualization of latent factor loadings
-- 2024-11-18 13:17: perf(data): normalize multi-spectral sensor variance
-- 2024-11-19 13:47: docs(analysis): document scree plot factor cutoff criteria
-- 2024-11-19 18:14: docs(analysis): document scree plot factor cutoff criteria
-- 2024-11-19 19:59: feat(factor): varimax rotation on soil fertility latent factors
-- 2024-11-22 10:02: perf(numpy): vectorize sensor feature normalization pipeline
-- 2024-11-22 12:24: feat(factor): varimax rotation on soil fertility latent factors
-- 2024-11-22 13:23: docs(analysis): document scree plot factor cutoff criteria
 - 2024-11-22 14:37: perf(numpy): vectorize sensor feature normalization pipeline
 - 2024-11-22 18:01: refactor(pipeline): sensor correlation matrix computation
 - 2024-11-22 21:14: feat(export): dump latent factor scores to CSV output
@@ -58,3 +49,4 @@
 - 2025-01-18 19:06: test(covariance): eigenvalue decomposition stability test
 - 2025-01-18 20:39: feat(export): dump latent factor scores to CSV output
 - 2025-01-18 22:46: perf(data): normalize multi-spectral sensor variance
+- 2025-01-23 10:07: docs(analysis): document scree plot factor cutoff criteria
