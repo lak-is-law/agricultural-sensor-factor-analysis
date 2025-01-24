@@ -57,3 +57,4 @@
 - 2025-01-24 19:48: feat(export): dump latent factor scores to CSV output
 - 2025-01-24 20:10: perf(data): normalize multi-spectral sensor variance
 - 2025-01-24 21:48: feat(export): dump latent factor scores to CSV output
+- 2025-01-24 22:36: feat(viz): biplot visualization of latent factor loadings
