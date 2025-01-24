@@ -53,3 +53,4 @@
 - 2025-01-24 15:55: docs(analysis): document scree plot factor cutoff criteria
 - 2025-01-24 16:37: perf(data): normalize multi-spectral sensor variance
 - 2025-01-24 17:29: refactor(pipeline): sensor correlation matrix computation
+- 2025-01-24 18:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
