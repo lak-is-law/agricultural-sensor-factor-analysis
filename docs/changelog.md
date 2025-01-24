@@ -54,3 +54,4 @@
 - 2025-01-24 16:37: perf(data): normalize multi-spectral sensor variance
 - 2025-01-24 17:29: refactor(pipeline): sensor correlation matrix computation
 - 2025-01-24 18:01: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2025-01-24 19:48: feat(export): dump latent factor scores to CSV output
