@@ -53,3 +53,4 @@
 - 2025-01-27 10:34: refactor(pipeline): sensor correlation matrix computation
 - 2025-01-27 11:16: docs(analysis): document scree plot factor cutoff criteria
 - 2025-01-27 11:38: perf(data): normalize multi-spectral sensor variance
+- 2025-01-27 12:32: docs(analysis): document scree plot factor cutoff criteria
