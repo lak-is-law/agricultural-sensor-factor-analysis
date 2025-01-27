@@ -55,3 +55,4 @@
 - 2025-01-27 11:38: perf(data): normalize multi-spectral sensor variance
 - 2025-01-27 12:32: docs(analysis): document scree plot factor cutoff criteria
 - 2025-01-27 12:57: docs(analysis): document scree plot factor cutoff criteria
+- 2025-01-27 13:06: docs(analysis): document scree plot factor cutoff criteria
