@@ -50,3 +50,4 @@
 - 2025-01-24 21:48: feat(export): dump latent factor scores to CSV output
 - 2025-01-24 22:36: feat(viz): biplot visualization of latent factor loadings
 - 2025-01-27 10:30: feat(viz): biplot visualization of latent factor loadings
+- 2025-01-27 10:34: refactor(pipeline): sensor correlation matrix computation
