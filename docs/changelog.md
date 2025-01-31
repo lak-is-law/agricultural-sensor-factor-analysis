@@ -50,3 +50,4 @@
 - 2025-01-27 21:36: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-01-27 22:56: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-01-31 13:00: feat(viz): biplot visualization of latent factor loadings
+- 2025-01-31 17:25: docs(analysis): document scree plot factor cutoff criteria
