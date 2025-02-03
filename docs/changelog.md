@@ -54,3 +54,4 @@
 - 2025-01-31 21:13: feat(viz): biplot visualization of latent factor loadings
 - 2025-02-03 11:40: perf(data): normalize multi-spectral sensor variance
 - 2025-02-03 12:04: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-02-03 13:33: test(covariance): eigenvalue decomposition stability test
