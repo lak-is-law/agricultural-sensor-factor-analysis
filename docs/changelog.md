@@ -50,3 +50,4 @@
 - 2025-02-05 13:19: feat(viz): biplot visualization of latent factor loadings
 - 2025-02-05 15:49: perf(data): normalize multi-spectral sensor variance
 - 2025-02-05 16:30: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2025-02-05 17:46: feat(factor): varimax rotation on soil fertility latent factors
