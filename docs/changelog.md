@@ -57,3 +57,4 @@
 - 2025-02-03 13:33: test(covariance): eigenvalue decomposition stability test
 - 2025-02-03 21:58: refactor(pipeline): sensor correlation matrix computation
 - 2025-02-05 13:19: feat(viz): biplot visualization of latent factor loadings
+- 2025-02-05 15:49: perf(data): normalize multi-spectral sensor variance
