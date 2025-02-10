@@ -50,3 +50,4 @@
 - 2025-02-07 21:46: perf(data): normalize multi-spectral sensor variance
 - 2025-02-07 22:15: docs(analysis): document scree plot factor cutoff criteria
 - 2025-02-10 12:00: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-02-10 17:07: feat(factor): varimax rotation on soil fertility latent factors
