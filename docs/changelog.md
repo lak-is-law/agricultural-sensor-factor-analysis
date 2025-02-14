@@ -55,3 +55,4 @@
 - 2025-02-10 21:58: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-02-14 10:44: docs(analysis): document scree plot factor cutoff criteria
 - 2025-02-14 13:24: feat(factor): varimax rotation on soil fertility latent factors
+- 2025-02-14 22:47: feat(viz): biplot visualization of latent factor loadings
