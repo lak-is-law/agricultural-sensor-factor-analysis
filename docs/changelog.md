@@ -50,3 +50,4 @@
 - 2025-02-16 12:02: feat(viz): biplot visualization of latent factor loadings
 - 2025-02-16 13:58: test(covariance): eigenvalue decomposition stability test
 - 2025-02-16 14:54: feat(export): dump latent factor scores to CSV output
+- 2025-02-16 15:50: perf(numpy): vectorize sensor feature normalization pipeline
