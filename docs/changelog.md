@@ -52,3 +52,4 @@
 - 2025-02-16 14:54: feat(export): dump latent factor scores to CSV output
 - 2025-02-16 15:50: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-02-16 16:30: feat(factor): varimax rotation on soil fertility latent factors
+- 2025-02-16 18:55: test(covariance): eigenvalue decomposition stability test
