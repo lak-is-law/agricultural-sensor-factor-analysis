@@ -51,3 +51,4 @@
 - 2025-02-20 17:48: feat(viz): biplot visualization of latent factor loadings
 - 2025-02-20 18:44: feat(viz): biplot visualization of latent factor loadings
 - 2025-02-25 10:14: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-02-25 11:42: feat(factor): varimax rotation on soil fertility latent factors
