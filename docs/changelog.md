@@ -57,3 +57,4 @@
 - 2025-03-07 10:30: feat(export): dump latent factor scores to CSV output
 - 2025-03-07 12:03: docs(analysis): document scree plot factor cutoff criteria
 - 2025-03-07 14:10: perf(data): normalize multi-spectral sensor variance
+- 2025-03-07 16:53: refactor(pipeline): sensor correlation matrix computation
