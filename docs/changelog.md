@@ -55,3 +55,4 @@
 - 2025-02-25 16:05: test(covariance): eigenvalue decomposition stability test
 - 2025-02-25 19:39: docs(analysis): document scree plot factor cutoff criteria
 - 2025-03-07 10:30: feat(export): dump latent factor scores to CSV output
+- 2025-03-07 12:03: docs(analysis): document scree plot factor cutoff criteria
