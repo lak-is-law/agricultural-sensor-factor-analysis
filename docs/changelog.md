@@ -50,3 +50,4 @@
 - 2025-03-09 12:19: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-03-09 13:04: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-03-09 14:09: test(covariance): eigenvalue decomposition stability test
+- 2025-03-09 15:16: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
