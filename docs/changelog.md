@@ -54,3 +54,4 @@
 - 2025-03-09 16:45: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-03-09 18:15: perf(data): normalize multi-spectral sensor variance
 - 2025-03-10 13:13: feat(factor): varimax rotation on soil fertility latent factors
+- 2025-03-10 14:00: feat(viz): biplot visualization of latent factor loadings
