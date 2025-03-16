@@ -52,3 +52,4 @@
 - 2025-03-10 20:13: test(covariance): eigenvalue decomposition stability test
 - 2025-03-16 10:33: refactor(pipeline): sensor correlation matrix computation
 - 2025-03-16 10:40: perf(data): normalize multi-spectral sensor variance
+- 2025-03-16 11:18: test(covariance): eigenvalue decomposition stability test
