@@ -54,3 +54,4 @@
 - 2025-03-19 10:47: perf(data): normalize multi-spectral sensor variance
 - 2025-03-19 11:49: feat(viz): biplot visualization of latent factor loadings
 - 2025-03-19 12:15: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2025-03-19 13:19: feat(viz): biplot visualization of latent factor loadings
