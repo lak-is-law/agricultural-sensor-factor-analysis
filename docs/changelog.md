@@ -50,3 +50,4 @@
 - 2025-03-21 14:48: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-03-21 16:28: feat(export): dump latent factor scores to CSV output
 - 2025-03-21 19:07: feat(factor): varimax rotation on soil fertility latent factors
+- 2025-03-22 11:51: refactor(pipeline): sensor correlation matrix computation
