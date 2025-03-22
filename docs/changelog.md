@@ -50,3 +50,4 @@
 - 2025-03-22 18:30: test(covariance): eigenvalue decomposition stability test
 - 2025-03-22 19:58: feat(viz): biplot visualization of latent factor loadings
 - 2025-03-22 20:29: refactor(pipeline): sensor correlation matrix computation
+- 2025-03-22 21:53: feat(export): dump latent factor scores to CSV output
