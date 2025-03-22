@@ -56,3 +56,4 @@
 - 2025-03-22 14:07: feat(viz): biplot visualization of latent factor loadings
 - 2025-03-22 15:49: feat(export): dump latent factor scores to CSV output
 - 2025-03-22 17:01: docs(analysis): document scree plot factor cutoff criteria
+- 2025-03-22 18:30: test(covariance): eigenvalue decomposition stability test
