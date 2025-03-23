@@ -52,3 +52,4 @@
 - 2025-03-22 20:29: refactor(pipeline): sensor correlation matrix computation
 - 2025-03-22 21:53: feat(export): dump latent factor scores to CSV output
 - 2025-03-22 22:22: refactor(pipeline): sensor correlation matrix computation
+- 2025-03-23 11:43: perf(data): normalize multi-spectral sensor variance
