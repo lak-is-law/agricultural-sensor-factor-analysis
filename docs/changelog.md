@@ -56,3 +56,4 @@
 - 2025-03-23 12:11: test(covariance): eigenvalue decomposition stability test
 - 2025-03-23 13:08: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-03-23 14:31: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-03-23 15:37: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
