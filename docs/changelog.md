@@ -50,3 +50,4 @@
 - 2025-03-23 15:37: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-03-23 18:21: feat(export): dump latent factor scores to CSV output
 - 2025-03-26 11:22: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-03-26 18:24: feat(viz): biplot visualization of latent factor loadings
