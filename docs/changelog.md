@@ -50,3 +50,4 @@
 - 2025-03-27 22:53: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-03-28 15:41: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-03-28 16:07: perf(data): normalize multi-spectral sensor variance
+- 2025-03-28 17:24: test(covariance): eigenvalue decomposition stability test
