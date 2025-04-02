@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-03-16 18:28: perf(numpy): vectorize sensor feature normalization pipeline
-- 2025-03-16 19:54: docs(analysis): document scree plot factor cutoff criteria
-- 2025-03-16 20:01: perf(data): normalize multi-spectral sensor variance
-- 2025-03-16 21:08: perf(data): normalize multi-spectral sensor variance
-- 2025-03-16 22:54: docs(analysis): document scree plot factor cutoff criteria
-- 2025-03-19 10:23: perf(numpy): vectorize sensor feature normalization pipeline
-- 2025-03-19 10:47: perf(data): normalize multi-spectral sensor variance
-- 2025-03-19 11:49: feat(viz): biplot visualization of latent factor loadings
-- 2025-03-19 12:15: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-03-19 13:19: feat(viz): biplot visualization of latent factor loadings
 - 2025-03-19 14:59: test(covariance): eigenvalue decomposition stability test
 - 2025-03-19 15:34: perf(numpy): vectorize sensor feature normalization pipeline
@@ -58,3 +49,4 @@
 - 2025-03-31 14:08: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-03-31 15:03: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-03-31 20:52: perf(data): normalize multi-spectral sensor variance
+- 2025-04-02 17:16: perf(numpy): vectorize sensor feature normalization pipeline
