@@ -52,3 +52,4 @@
 - 2025-04-02 17:16: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-04-04 10:37: refactor(pipeline): sensor correlation matrix computation
 - 2025-04-04 12:15: test(covariance): eigenvalue decomposition stability test
+- 2025-04-04 13:04: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
