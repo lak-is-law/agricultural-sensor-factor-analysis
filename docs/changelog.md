@@ -50,3 +50,4 @@
 - 2025-03-31 15:03: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-03-31 20:52: perf(data): normalize multi-spectral sensor variance
 - 2025-04-02 17:16: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-04-04 10:37: refactor(pipeline): sensor correlation matrix computation
