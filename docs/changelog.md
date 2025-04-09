@@ -51,3 +51,4 @@
 - 2025-04-09 12:13: perf(data): normalize multi-spectral sensor variance
 - 2025-04-09 13:42: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-04-09 14:30: feat(viz): biplot visualization of latent factor loadings
+- 2025-04-09 15:08: docs(analysis): document scree plot factor cutoff criteria
