@@ -55,3 +55,4 @@
 - 2025-04-10 16:46: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-04-10 17:55: refactor(pipeline): sensor correlation matrix computation
 - 2025-04-10 18:43: feat(factor): varimax rotation on soil fertility latent factors
+- 2025-04-10 19:31: perf(data): normalize multi-spectral sensor variance
