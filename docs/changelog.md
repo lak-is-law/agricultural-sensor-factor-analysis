@@ -56,3 +56,4 @@
 - 2025-04-09 18:04: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-04-09 21:26: perf(data): normalize multi-spectral sensor variance
 - 2025-04-10 10:28: feat(viz): biplot visualization of latent factor loadings
+- 2025-04-10 11:40: feat(export): dump latent factor scores to CSV output
