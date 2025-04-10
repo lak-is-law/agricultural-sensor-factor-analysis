@@ -50,3 +50,4 @@
 - 2025-04-10 11:40: feat(export): dump latent factor scores to CSV output
 - 2025-04-10 12:13: docs(analysis): document scree plot factor cutoff criteria
 - 2025-04-10 13:10: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-04-10 14:09: test(covariance): eigenvalue decomposition stability test
