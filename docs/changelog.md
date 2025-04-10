@@ -51,3 +51,4 @@
 - 2025-04-10 12:13: docs(analysis): document scree plot factor cutoff criteria
 - 2025-04-10 13:10: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-04-10 14:09: test(covariance): eigenvalue decomposition stability test
+- 2025-04-10 15:08: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
