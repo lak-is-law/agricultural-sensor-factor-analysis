@@ -57,3 +57,4 @@
 - 2025-04-10 18:43: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-04-10 19:31: perf(data): normalize multi-spectral sensor variance
 - 2025-04-10 20:19: feat(export): dump latent factor scores to CSV output
+- 2025-04-10 21:22: feat(viz): biplot visualization of latent factor loadings
