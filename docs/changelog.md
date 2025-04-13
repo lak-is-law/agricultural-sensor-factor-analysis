@@ -55,3 +55,4 @@
 - 2025-04-13 12:14: docs(analysis): document scree plot factor cutoff criteria
 - 2025-04-13 13:08: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-04-13 18:06: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
+- 2025-04-13 20:26: feat(export): dump latent factor scores to CSV output
