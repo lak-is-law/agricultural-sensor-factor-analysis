@@ -50,3 +50,4 @@
 - 2025-04-10 20:19: feat(export): dump latent factor scores to CSV output
 - 2025-04-10 21:22: feat(viz): biplot visualization of latent factor loadings
 - 2025-04-10 22:15: test(covariance): eigenvalue decomposition stability test
+- 2025-04-13 10:37: feat(viz): biplot visualization of latent factor loadings
