@@ -57,3 +57,4 @@
 - 2025-04-13 18:06: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-04-13 20:26: feat(export): dump latent factor scores to CSV output
 - 2025-04-13 21:11: feat(export): dump latent factor scores to CSV output
+- 2025-04-15 11:31: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
