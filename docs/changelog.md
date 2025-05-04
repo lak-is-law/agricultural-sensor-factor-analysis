@@ -55,3 +55,4 @@
 - 2025-04-15 22:09: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-04-22 10:25: feat(viz): biplot visualization of latent factor loadings
 - 2025-04-22 11:57: test(covariance): eigenvalue decomposition stability test
+- 2025-05-04 10:29: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
