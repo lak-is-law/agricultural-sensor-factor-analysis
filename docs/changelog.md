@@ -50,3 +50,4 @@
 - 2025-05-04 11:27: refactor(pipeline): sensor correlation matrix computation
 - 2025-05-04 12:38: perf(data): normalize multi-spectral sensor variance
 - 2025-05-04 13:24: feat(viz): biplot visualization of latent factor loadings
+- 2025-05-04 15:59: docs(analysis): document scree plot factor cutoff criteria
