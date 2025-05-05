@@ -56,3 +56,4 @@
 - 2025-05-04 19:08: feat(viz): biplot visualization of latent factor loadings
 - 2025-05-04 22:08: feat(export): dump latent factor scores to CSV output
 - 2025-05-05 18:05: docs(analysis): document scree plot factor cutoff criteria
+- 2025-05-05 22:30: feat(viz): biplot visualization of latent factor loadings
