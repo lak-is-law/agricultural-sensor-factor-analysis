@@ -50,3 +50,4 @@
 - 2025-05-05 22:30: feat(viz): biplot visualization of latent factor loadings
 - 2025-05-07 11:54: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-05-10 14:54: feat(factor): varimax rotation on soil fertility latent factors
+- 2025-05-10 15:19: feat(export): dump latent factor scores to CSV output
