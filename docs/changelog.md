@@ -50,3 +50,4 @@
 - 2025-05-11 20:44: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-05-11 21:59: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-05-12 17:40: perf(numpy): vectorize sensor feature normalization pipeline
+- 2025-05-12 19:38: feat(factor): varimax rotation on soil fertility latent factors
