@@ -55,3 +55,4 @@
 - 2025-05-22 17:57: perf(data): normalize multi-spectral sensor variance
 - 2025-05-22 21:41: docs(analysis): document scree plot factor cutoff criteria
 - 2025-05-24 12:46: test(covariance): eigenvalue decomposition stability test
+- 2025-05-24 16:06: docs(analysis): document scree plot factor cutoff criteria
