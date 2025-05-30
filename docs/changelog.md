@@ -51,3 +51,4 @@
 - 2025-05-30 14:24: perf(data): normalize multi-spectral sensor variance
 - 2025-05-30 15:11: feat(export): dump latent factor scores to CSV output
 - 2025-05-30 16:20: feat(viz): biplot visualization of latent factor loadings
+- 2025-05-30 18:26: test(covariance): eigenvalue decomposition stability test
