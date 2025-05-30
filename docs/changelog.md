@@ -57,3 +57,4 @@
 - 2025-05-24 12:46: test(covariance): eigenvalue decomposition stability test
 - 2025-05-24 16:06: docs(analysis): document scree plot factor cutoff criteria
 - 2025-05-24 19:13: feat(viz): biplot visualization of latent factor loadings
+- 2025-05-30 14:24: perf(data): normalize multi-spectral sensor variance
