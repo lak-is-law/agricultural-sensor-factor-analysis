@@ -57,3 +57,4 @@
 - 2025-05-30 22:14: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-06-04 10:26: feat(export): dump latent factor scores to CSV output
 - 2025-06-04 11:36: feat(viz): biplot visualization of latent factor loadings
+- 2025-06-04 21:15: docs(analysis): document scree plot factor cutoff criteria
