@@ -57,3 +57,4 @@
 - 2025-06-05 16:34: refactor(pipeline): sensor correlation matrix computation
 - 2025-06-05 17:20: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-06-05 18:41: perf(data): normalize multi-spectral sensor variance
+- 2025-06-05 19:22: feat(export): dump latent factor scores to CSV output
