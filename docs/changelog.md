@@ -51,3 +51,4 @@
 - 2025-06-04 21:15: docs(analysis): document scree plot factor cutoff criteria
 - 2025-06-05 10:52: feat(export): dump latent factor scores to CSV output
 - 2025-06-05 11:17: feat(export): dump latent factor scores to CSV output
+- 2025-06-05 12:20: perf(numpy): vectorize sensor feature normalization pipeline
