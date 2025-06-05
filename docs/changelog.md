@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-04-13 18:06: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2025-04-13 20:26: feat(export): dump latent factor scores to CSV output
-- 2025-04-13 21:11: feat(export): dump latent factor scores to CSV output
-- 2025-04-15 11:31: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2025-04-15 15:55: feat(factor): varimax rotation on soil fertility latent factors
-- 2025-04-15 17:07: feat(export): dump latent factor scores to CSV output
-- 2025-04-15 21:22: feat(factor): varimax rotation on soil fertility latent factors
-- 2025-04-15 22:09: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
-- 2025-04-22 10:25: feat(viz): biplot visualization of latent factor loadings
 - 2025-04-22 11:57: test(covariance): eigenvalue decomposition stability test
 - 2025-05-04 10:29: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-05-04 11:27: refactor(pipeline): sensor correlation matrix computation
@@ -58,3 +49,4 @@
 - 2025-06-05 17:20: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-06-05 18:41: perf(data): normalize multi-spectral sensor variance
 - 2025-06-05 19:22: feat(export): dump latent factor scores to CSV output
+- 2025-06-05 20:30: test(covariance): eigenvalue decomposition stability test
