@@ -53,3 +53,4 @@
 - 2025-06-05 22:50: refactor(pipeline): sensor correlation matrix computation
 - 2025-06-06 12:25: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-06-06 13:53: docs(analysis): document scree plot factor cutoff criteria
+- 2025-06-06 15:43: feat(factor): varimax rotation on soil fertility latent factors
