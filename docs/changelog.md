@@ -51,3 +51,4 @@
 - 2025-06-05 19:22: feat(export): dump latent factor scores to CSV output
 - 2025-06-05 20:30: test(covariance): eigenvalue decomposition stability test
 - 2025-06-05 22:50: refactor(pipeline): sensor correlation matrix computation
+- 2025-06-06 12:25: feat(factor): varimax rotation on soil fertility latent factors
