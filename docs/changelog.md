@@ -57,3 +57,4 @@
 - 2025-06-06 21:38: feat(export): dump latent factor scores to CSV output
 - 2025-06-08 11:05: refactor(pipeline): sensor correlation matrix computation
 - 2025-06-08 13:16: feat(export): dump latent factor scores to CSV output
+- 2025-06-08 14:17: perf(numpy): vectorize sensor feature normalization pipeline
