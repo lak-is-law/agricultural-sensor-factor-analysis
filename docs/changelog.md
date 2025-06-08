@@ -55,3 +55,4 @@
 - 2025-06-06 13:53: docs(analysis): document scree plot factor cutoff criteria
 - 2025-06-06 15:43: feat(factor): varimax rotation on soil fertility latent factors
 - 2025-06-06 21:38: feat(export): dump latent factor scores to CSV output
+- 2025-06-08 11:05: refactor(pipeline): sensor correlation matrix computation
