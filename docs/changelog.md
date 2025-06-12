@@ -52,3 +52,4 @@
 - 2025-06-08 17:46: docs(analysis): document scree plot factor cutoff criteria
 - 2025-06-08 18:13: test(covariance): eigenvalue decomposition stability test
 - 2025-06-08 20:54: refactor(pipeline): sensor correlation matrix computation
+- 2025-06-12 11:46: test(covariance): eigenvalue decomposition stability test
