@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-05-04 22:08: feat(export): dump latent factor scores to CSV output
-- 2025-05-05 18:05: docs(analysis): document scree plot factor cutoff criteria
-- 2025-05-05 22:30: feat(viz): biplot visualization of latent factor loadings
-- 2025-05-07 11:54: feat(factor): varimax rotation on soil fertility latent factors
-- 2025-05-10 14:54: feat(factor): varimax rotation on soil fertility latent factors
-- 2025-05-10 15:19: feat(export): dump latent factor scores to CSV output
-- 2025-05-10 19:00: docs(analysis): document scree plot factor cutoff criteria
-- 2025-05-10 21:37: perf(data): normalize multi-spectral sensor variance
-- 2025-05-10 22:15: perf(data): normalize multi-spectral sensor variance
 - 2025-05-11 12:57: refactor(pipeline): sensor correlation matrix computation
 - 2025-05-11 13:11: fix(cleaner): interpolate missing telemetry timestamps with cubic spline
 - 2025-05-11 20:44: perf(numpy): vectorize sensor feature normalization pipeline
@@ -58,3 +49,4 @@
 - 2025-06-12 17:44: feat(viz): biplot visualization of latent factor loadings
 - 2025-06-12 18:01: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-06-12 19:15: feat(export): dump latent factor scores to CSV output
+- 2025-06-12 20:28: perf(data): normalize multi-spectral sensor variance
