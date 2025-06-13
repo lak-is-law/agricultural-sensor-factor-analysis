@@ -51,3 +51,4 @@
 - 2025-06-12 19:15: feat(export): dump latent factor scores to CSV output
 - 2025-06-12 20:28: perf(data): normalize multi-spectral sensor variance
 - 2025-06-13 10:30: feat(export): dump latent factor scores to CSV output
+- 2025-06-13 11:53: feat(factor): varimax rotation on soil fertility latent factors
