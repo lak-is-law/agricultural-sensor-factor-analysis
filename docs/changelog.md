@@ -56,3 +56,4 @@
 - 2025-06-13 14:53: perf(data): normalize multi-spectral sensor variance
 - 2025-06-13 17:47: refactor(pipeline): sensor correlation matrix computation
 - 2025-06-25 11:13: docs(analysis): document scree plot factor cutoff criteria
+- 2025-06-25 12:16: test(covariance): eigenvalue decomposition stability test
