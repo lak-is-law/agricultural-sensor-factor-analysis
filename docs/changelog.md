@@ -50,3 +50,4 @@
 - 2025-06-25 12:16: test(covariance): eigenvalue decomposition stability test
 - 2025-06-25 13:40: perf(numpy): vectorize sensor feature normalization pipeline
 - 2025-06-25 17:21: perf(data): normalize multi-spectral sensor variance
+- 2025-06-25 19:25: feat(factor): varimax rotation on soil fertility latent factors
