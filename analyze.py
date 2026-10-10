@@ -15,7 +15,9 @@ from scipy import stats
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import FactorAnalysis, PCA
 
-# Set non-interactive backend for headless environments
+# Set non-interactive backend and writable cache for matplotlib
+os.environ.setdefault("MPLCONFIGDIR", "/tmp/mplconfig")
+os.makedirs("/tmp/mplconfig", exist_ok=True)
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
