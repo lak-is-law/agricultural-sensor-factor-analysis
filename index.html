@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agricultural Sensor Factor Analysis | Latent Dimension Discovery</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Top Header Navigation -->
+  <header class="header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-icon">🌾</div>
+        <div>
+          <h1>AgriFactor AI</h1>
+          <p class="subtitle">Latent Factor Analysis for Precision Agricultural Sensor Networks</p>
+        </div>
+      </div>
+      <div class="status-badges">
+        <span class="badge badge-db"><span class="pulse-dot"></span> SQLite: agricultural_sensors.db</span>
+        <span class="badge badge-data">945 Kaggle Observations</span>
+        <span class="badge badge-status">Varimax Rotation Active</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Layout -->
+  <main class="main-container">
+
+    <!-- Overview & Mathematical Framework Card -->
+    <section class="card intro-card">
+      <div class="card-header">
+        <h2>🔬 The Factor Analysis Framework</h2>
+        <span class="tag">Dimensionality Reduction</span>
+      </div>
+      <div class="intro-grid">
+        <div class="intro-text">
+          <p>
+            Precision agricultural IoT networks deploy dozens of correlated physical sensors. High multicollinearity complicates direct modeling and decision-making. <strong>Factor Analysis</strong> decomposes \(p=11\) observed sensor measurements into \(k=3\) fundamental, uncorrelated latent dimensions:
+          </p>
+          <div class="formula-box">
+            <code>x_i - \mu_i = \lambda_{i1} F_{\text{Fertility}} + \lambda_{i2} F_{\text{Moisture}} + \lambda_{i3} F_{\text{Vigor}} + \epsilon_i</code>
+          </div>
+          <p class="small-text">
+            Where \(\lambda_{ij}\) represents the factor loading, \(F_j\) represents the unobservable latent state, and \(\epsilon_i\) is unique sensor variance.
+          </p>
+        </div>
+        <div class="factors-summary">
+          <div class="factor-summary-item f-fertility">
+            <div class="f-icon">🧪</div>
+            <div class="f-details">
+              <h4>Factor 1: Soil Fertility</h4>
+              <p>Primary Loadings: Nitrogen (+0.89), Phosphorus (+0.75), Potassium (+0.68), pH (+0.35)</p>
+            </div>
+          </div>
+          <div class="factor-summary-item f-moisture">
+            <div class="f-icon">💧</div>
+            <div class="f-details">
+              <h4>Factor 2: Moisture Condition</h4>
+              <p>Primary Loadings: Soil Moisture (+0.84), Humidity (+0.88), Rainfall (+0.78)</p>
+            </div>
+          </div>
+          <div class="factor-summary-item f-vigor">
+            <div class="f-icon">🌿</div>
+            <div class="f-details">
+              <h4>Factor 3: Crop Vigor</h4>
+              <p>Primary Loadings: NDVI Index (+0.82), Crop Yield (+0.79), Sunlight (+0.45)</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Interactive Simulation & Live Score Calculator -->
+    <div class="dashboard-grid">
+
+      <!-- Left Column: Sensor Control Panel -->
+      <section class="card controls-card">
+        <div class="card-header">
+          <h2>🎛️ Real-Time Sensor Input Simulator</h2>
+          <div class="presets-group">
+            <span class="preset-label">Presets:</span>
+            <button class="preset-btn active" data-preset="optimal">Balanced</button>
+            <button class="preset-btn" data-preset="drought">Drought</button>
+            <button class="preset-btn" data-preset="depleted">Depleted</button>
+            <button class="preset-btn" data-preset="waterlogged">Waterlogged</button>
+          </div>
+        </div>
+
+        <div class="sensor-sections">
+          <!-- Soil Chemistry -->
+          <div class="sensor-group">
+            <h3 class="group-title"><span class="group-icon">🌱</span> Soil Chemistry & Nutrients</h3>
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-n">Nitrogen (N)</label>
+                <span class="slider-val" id="val-n">75 mg/kg</span>
+              </div>
+              <input type="range" id="input-n" min="0" max="140" value="75" step="1">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-p">Phosphorus (P)</label>
+                <span class="slider-val" id="val-p">50 mg/kg</span>
+              </div>
+              <input type="range" id="input-p" min="5" max="145" value="50" step="1">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-k">Potassium (K)</label>
+                <span class="slider-val" id="val-k">45 mg/kg</span>
+              </div>
+              <input type="range" id="input-k" min="5" max="205" value="45" step="1">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-ph">Soil pH</label>
+                <span class="slider-val" id="val-ph">6.50</span>
+              </div>
+              <input type="range" id="input-ph" min="3.5" max="9.9" value="6.50" step="0.05">
+            </div>
+          </div>
+
+          <!-- Moisture & Hydrology -->
+          <div class="sensor-group">
+            <h3 class="group-title"><span class="group-icon">🌧️</span> Moisture & Hydrology</h3>
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-moist">Soil Moisture</label>
+                <span class="slider-val" id="val-moist">38.5 %</span>
+              </div>
+              <input type="range" id="input-moist" min="10" max="85" value="38.5" step="0.5">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-hum">Ambient Humidity</label>
+                <span class="slider-val" id="val-hum">72.0 %</span>
+              </div>
+              <input type="range" id="input-hum" min="15" max="99" value="72.0" step="0.5">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-rain">Rainfall</label>
+                <span class="slider-val" id="val-rain">145 mm</span>
+              </div>
+              <input type="range" id="input-rain" min="20" max="298" value="145" step="1">
+            </div>
+          </div>
+
+          <!-- Crop Canopy & Vigor -->
+          <div class="sensor-group">
+            <h3 class="group-title"><span class="group-icon">☀️</span> Crop Canopy & Growth Vigor</h3>
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-ndvi">NDVI Vegetation Index</label>
+                <span class="slider-val" id="val-ndvi">0.68</span>
+              </div>
+              <input type="range" id="input-ndvi" min="0.20" max="0.95" value="0.68" step="0.01">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-sun">Sunlight Hours</label>
+                <span class="slider-val" id="val-sun">6.8 hrs</span>
+              </div>
+              <input type="range" id="input-sun" min="3.5" max="9.5" value="6.8" step="0.1">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-yield">Yield Projection</label>
+                <span class="slider-val" id="val-yield">4200 kg/ha</span>
+              </div>
+              <input type="range" id="input-yield" min="1800" max="6800" value="4200" step="50">
+            </div>
+
+            <div class="slider-item">
+              <div class="slider-header">
+                <label for="input-temp">Temperature</label>
+                <span class="slider-val" id="val-temp">24.5 °C</span>
+              </div>
+              <input type="range" id="input-temp" min="10" max="42" value="24.5" step="0.5">
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Column: Discovered Latent Factors & Prescriptions -->
+      <section class="card results-card">
+        <div class="card-header">
+          <h2>📊 Discovered Latent Factor Scores</h2>
+          <span class="tag tag-live">Standardized Z-Scores</span>
+        </div>
+
+        <!-- 3 Primary Factor Gauges -->
+        <div class="factors-display">
+
+          <!-- Factor 1: Soil Fertility -->
+          <div class="factor-gauge-box">
+            <div class="gauge-header">
+              <span class="gauge-title">🧪 F1: Soil Fertility</span>
+              <span class="gauge-score" id="score-fertility">+0.12 σ</span>
+            </div>
+            <div class="gauge-track">
+              <div class="gauge-fill fill-fertility" id="bar-fertility" style="width: 52%;"></div>
+              <div class="gauge-center-line"></div>
+            </div>
+            <div class="gauge-scale">
+              <span>Depleted (-2.5σ)</span>
+              <span>Balanced (0)</span>
+              <span>Rich (+2.5σ)</span>
+            </div>
+          </div>
+
+          <!-- Factor 2: Moisture Condition -->
+          <div class="factor-gauge-box">
+            <div class="gauge-header">
+              <span class="gauge-title">💧 F2: Moisture Condition</span>
+              <span class="gauge-score" id="score-moisture">+0.35 σ</span>
+            </div>
+            <div class="gauge-track">
+              <div class="gauge-fill fill-moisture" id="bar-moisture" style="width: 57%;"></div>
+              <div class="gauge-center-line"></div>
+            </div>
+            <div class="gauge-scale">
+              <span>Arid / Drought (-2.5σ)</span>
+              <span>Optimal (0)</span>
+              <span>Saturated (+2.5σ)</span>
+            </div>
+          </div>
+
+          <!-- Factor 3: Crop Vigor -->
+          <div class="factor-gauge-box">
+            <div class="gauge-header">
+              <span class="gauge-title">🌿 F3: Crop Vigor</span>
+              <span class="gauge-score" id="score-vigor">+0.48 σ</span>
+            </div>
+            <div class="gauge-track">
+              <div class="gauge-fill fill-vigor" id="bar-vigor" style="width: 60%;"></div>
+              <div class="gauge-center-line"></div>
+            </div>
+            <div class="gauge-scale">
+              <span>Stressed / Low (-2.5σ)</span>
+              <span>Normal (0)</span>
+              <span>Thriving (+2.5σ)</span>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Latent Radar Canvas Chart -->
+        <div class="radar-section">
+          <h3>🎯 Factor Profile Radar</h3>
+          <div class="radar-container">
+            <canvas id="radarCanvas" width="300" height="260"></canvas>
+          </div>
+        </div>
+
+        <!-- Prescriptive Agricultural Guidance -->
+        <div class="recommendations-box">
+          <div class="rec-header">
+            <span class="rec-icon">⚡</span>
+            <h3>Prescriptive Agronomic Actions</h3>
+          </div>
+          <ul class="rec-list" id="recList">
+            <li>Soil nutrient chemistry is within the balanced range.</li>
+            <li>Moisture conditions are optimal for photosynthetic respiration.</li>
+            <li>Canopy vigor demonstrates healthy vegetative biomass growth.</li>
+          </ul>
+        </div>
+
+      </section>
+
+    </div>
+
+    <!-- Factor Loadings Matrix Table & Statistical Properties -->
+    <section class="card matrix-card">
+      <div class="card-header">
+        <h2>📑 Rotated Factor Loadings Matrix (Varimax)</h2>
+        <span class="tag">Kaggle Dataset Calibrated</span>
+      </div>
+      <p class="table-subtitle">
+        Sensor loadings show how strongly each sensor correlates with each latent factor. Communality (\(h^2\)) represents the proportion of variance explained by the 3 extracted factors.
+      </p>
+
+      <div class="table-responsive">
+        <table class="factor-table">
+          <thead>
+            <tr>
+              <th>Agricultural Sensor Feature</th>
+              <th>Unit</th>
+              <th>F1: Soil Fertility</th>
+              <th>F2: Moisture Condition</th>
+              <th>F3: Crop Vigor</th>
+              <th>Communality (\(h^2\))</th>
+              <th>Uniqueness (\(\psi\))</th>
+            </tr>
+          </thead>
+          <tbody id="matrixTableBody">
+            <!-- Populated via script.js -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Database Explorer & Observation Inspector -->
+    <section class="card explorer-card">
+      <div class="card-header">
+        <h2>🗄️ SQLite Database Sensor Inspector</h2>
+        <div class="search-filter-box">
+          <input type="text" id="searchCrop" placeholder="Filter by crop (Rice, Wheat, Maize...)...">
+          <span class="record-counter" id="recordCounter">Showing 10 of 945 records</span>
+        </div>
+      </div>
+      <div class="table-responsive">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Sensor ID</th>
+              <th>Crop Type</th>
+              <th>Nitrogen</th>
+              <th>Phosphorus</th>
+              <th>Potassium</th>
+              <th>pH</th>
+              <th>Moisture %</th>
+              <th>Humidity %</th>
+              <th>Rainfall</th>
+              <th>NDVI</th>
+              <th>Yield</th>
+            </tr>
+          </thead>
+          <tbody id="dataTableBody">
+            <!-- Populated via script.js -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <p>Agricultural Sensor Factor Analysis • SQLite Database Connectivity • Standalone GitHub Project</p>
+      <p class="sub-footer">Kaggle Datasets: Smart Farming Crop Yield 2024 & Precision Crop Recommendation Networks</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
